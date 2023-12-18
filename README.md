@@ -2,7 +2,7 @@
 # https://anquanti.com
 
 # [备用网址1](https://anquanti.xyz)
-# https://anquanti.com
+# https://anquanti.xyz
 
 # [备用网址2](https://anquanti.cc)
 # https://anquanti.cc
