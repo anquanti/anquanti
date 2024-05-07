@@ -2,7 +2,7 @@
 # https://anquanti.com
 
 # 备用网址1
-# https://go.anquanti.com
+# https://abc.anquanti.com
 
 # 备用网址2
 # https://anquanti.net
